@@ -6,7 +6,7 @@ In the age of digitalization every business have thousands of comments and revie
 
 AI is getting integrated in our lives more and more. It will take part in everything from our personal lives to our businesses. How do we know? Let's consider this case:
 
-You're taking feecback from your customers, directly or indirectly, and you need to have insights from these feedbacks in order to take your business one step further. What are you doing good, what are you doing bad, what did you improve over time?
+You're taking feedback from your customers, directly or indirectly, and you need to have insights from these feedbacks in order to take your business one step further. What are you doing good, what are you doing bad, what did you improve over time?
 
 You have two options to process these data. One is hiring people to process the feedback and give a report for you. More and more people will be needed to be hired as data grows eveyday, and it'll take more and more time to process.
 
