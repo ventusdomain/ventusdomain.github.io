@@ -14,7 +14,7 @@ Other option is having a program that runs anytime you want. Doesn't care amount
 
 ### Who Are We?
 
-In 2020 we started as an idea in Sabanci University. An idea that came true. We use state-of-art AI and NLP models to take your corporation/business one step ahead. Currently we work on customer feedback in Turkish and English languages.
+In 2020 we started as an idea in Sabanci University. An idea that came true. We use state-of-art AI and NLP models to take your corporation/business one step ahead.
 
 ### What Do We Do?
 
