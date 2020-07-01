@@ -14,11 +14,13 @@ Other option is having a program that runs anytime you want. Doesn't care amount
 
 ### Who Are We?
 
-In 2020 we started as an idea in Sabanci University. An idea that came true. We use state-of-art AI and NLP models to take your corporation/business one step ahead.
+We're fascinated by technology and science. We believe knowledge and discoveries shouldn't stay on paper or used only by academic institutions.
+
+Ventus is founded with the aim of helping corporations-businesses excel in the age of digitalization and data.
 
 ### What Do We Do?
 
-We constantly collect data about your company all over the internet. Also any data that is given by you can be used. Afterwards by analyzing the data collected our AI gives you individual stats for each of your product, service basically anything you want to know more about. We draw insights from them and track progress of your product/service day-by-day, hour-by-hour, week-by-week however you like. Just in seconds. We also shape or develop new products or tools depending on our prospect needs.
+We constantly collect data about your company all over the internet. Also any data that is given by you can be used also. Afterwards our AI analyzes the data collected and gives you individual stats for each of your product, service basically anything you want to know more about. Just in seconds. We draw insights from them and track progress of your product/service day-by-day, week-by-week. We also shape or develop new products or tools depending on our prospect needs.
 
 
 ### Contact and Ask for a Demo!
